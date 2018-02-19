@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  notificationChart:
+  - apiVersion: v1
+    created: 2018-02-19T12:07:20.442533643-08:00
+    description: A Helm chart for Kubernetes
+    digest: 5fbf015f8d06495da7e7ee459419f2f7948070ca26b967a871e822437f920c69
+    name: notificationChart
+    urls:
+    - https://cehaleTxOrg.github.io/stocktraderICPPoT/notificationChart-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-02-19T12:07:20.441932069-08:00
